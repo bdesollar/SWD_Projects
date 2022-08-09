@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12-15_DisplayEvents_Medium/12-15_DisplayEvents_Medium.iml" filepath="$PROJECT_DIR$/12-15_DisplayEvents_Medium/12-15_DisplayEvents_Medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-22_MorseCode/14-22_MorseCode.iml" filepath="$PROJECT_DIR$/14-22_MorseCode/14-22_MorseCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-21_RecursivelySearchList/21-21_RecursivelySearchList.iml" filepath="$PROJECT_DIR$/21-21_RecursivelySearchList/21-21_RecursivelySearchList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-18_Blackjack_Hard/28-18_Blackjack_Hard.iml" filepath="$PROJECT_DIR$/28-18_Blackjack_Hard/28-18_Blackjack_Hard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S10_ArabicToToRoman/S10_ArabicToToRoman.iml" filepath="$PROJECT_DIR$/S10_ArabicToToRoman/S10_ArabicToToRoman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_Computus/S1_Computus.iml" filepath="$PROJECT_DIR$/S1_Computus/S1_Computus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S21_HangmanGui/S21_HangmanGui.iml" filepath="$PROJECT_DIR$/S21_HangmanGui/S21_HangmanGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S28_MultithreadingRootFinder/S28_MultithreadingRootFinder.iml" filepath="$PROJECT_DIR$/S28_MultithreadingRootFinder/S28_MultithreadingRootFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4_ChangeComputation_Medium/S4_ChangeComputation_Medium.iml" filepath="$PROJECT_DIR$/S4_ChangeComputation_Medium/S4_ChangeComputation_Medium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5_Scoreboard/S5_Scoreboard.iml" filepath="$PROJECT_DIR$/S5_Scoreboard/S5_Scoreboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SWD_Projects.iml" filepath="$PROJECT_DIR$/.idea/SWD_Projects.iml" />
+    </modules>
+  </component>
+</project>

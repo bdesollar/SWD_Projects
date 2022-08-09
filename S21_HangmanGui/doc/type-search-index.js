@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"HangmanGUI.ButtonHandler"},{"p":"<Unnamed>","l":"HangmanGUI"},{"p":"<Unnamed>","l":"HangmanGuiMain"},{"p":"<Unnamed>","l":"HangmanGUI.KeyHandler"}];updateSearchResults();

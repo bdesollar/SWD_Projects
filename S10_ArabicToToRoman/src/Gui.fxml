@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="272.0" prefWidth="623.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ArabicToRomanGuiController">
+   <children>
+      <Label fx:id="romanText" layoutX="21.0" layoutY="43.0" text="Roman" />
+      <Label fx:id="arabicText" layoutX="280.0" layoutY="43.0" text="Arabic" />
+      <TextArea fx:id="arabicTextField" layoutX="334.0" layoutY="27.0" onKeyTyped="#KeyTypedArabic" prefHeight="49.0" prefWidth="197.0" />
+      <TextArea fx:id="romanTextField" layoutX="74.0" layoutY="27.0" onKeyTyped="#KeyTypedRoman" prefHeight="49.0" prefWidth="197.0" />
+      <Label fx:id="validatorLabel" layoutX="21.0" layoutY="94.0" prefHeight="16.0" prefWidth="252.0" text="Input Valid for Roman Text">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
